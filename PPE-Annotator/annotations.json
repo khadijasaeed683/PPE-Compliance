@@ -1,0 +1,197 @@
+{
+    "images (9).png": [],
+    "images (1).jfif": [
+        {
+            "class_id": 0,
+            "class_name": "Mask",
+            "bbox": [
+                90,
+                12,
+                100,
+                100
+            ]
+        },
+        {
+            "class_id": 1,
+            "class_name": "Goggles",
+            "bbox": [
+                97,
+                20,
+                105,
+                105
+            ]
+        }
+    ],
+    "images (2).jfif": [
+        {
+            "class_id": 3,
+            "class_name": "Gown",
+            "bbox": [
+                42,
+                53,
+                81,
+                117
+            ]
+        },
+        {
+            "class_id": 3,
+            "class_name": "Gown",
+            "bbox": [
+                135,
+                63,
+                181,
+                142
+            ]
+        },
+        {
+            "class_id": 3,
+            "class_name": "Gown",
+            "bbox": [
+                176,
+                75,
+                220,
+                152
+            ]
+        },
+        {
+            "class_id": 3,
+            "class_name": "Gown",
+            "bbox": [
+                87,
+                58,
+                125,
+                114
+            ]
+        }
+    ],
+    "images (5).jpg": [
+        {
+            "class_id": 2,
+            "class_name": "Gloves",
+            "bbox": [
+                301,
+                335,
+                414,
+                425
+            ]
+        }
+    ],
+    "images (8).jfif": [
+        {
+            "class_id": 0,
+            "class_name": "Mask",
+            "bbox": [
+                121,
+                84,
+                161,
+                123
+            ]
+        }
+    ],
+    "labeled_images (8).jfif": [
+        {
+            "class_id": 3,
+            "class_name": "Gown",
+            "bbox": [
+                50,
+                89,
+                98,
+                192
+            ]
+        },
+        {
+            "class_id": 3,
+            "class_name": "Gown",
+            "bbox": [
+                104,
+                101,
+                170,
+                189
+            ]
+        },
+        {
+            "class_id": 3,
+            "class_name": "Gown",
+            "bbox": [
+                177,
+                85,
+                217,
+                153
+            ]
+        }
+    ],
+    "images (12).jfif": [
+        {
+            "class_id": 0,
+            "class_name": "Mask",
+            "bbox": [
+                68,
+                102,
+                97,
+                132
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "Mask",
+            "bbox": [
+                109,
+                105,
+                138,
+                129
+            ]
+        },
+        {
+            "class_id": 1,
+            "class_name": "Goggles",
+            "bbox": [
+                61,
+                97,
+                98,
+                111
+            ]
+        },
+        {
+            "class_id": 2,
+            "class_name": "Gloves",
+            "bbox": [
+                114,
+                178,
+                146,
+                212
+            ]
+        },
+        {
+            "class_id": 2,
+            "class_name": "Gloves",
+            "bbox": [
+                151,
+                169,
+                180,
+                195
+            ]
+        },
+        {
+            "class_id": 2,
+            "class_name": "Gloves",
+            "bbox": [
+                101,
+                207,
+                146,
+                239
+            ]
+        }
+    ],
+    "labeled_images (5).jpg": [
+        {
+            "class_id": 0,
+            "class_name": "Mask",
+            "bbox": [
+                322,
+                234,
+                402,
+                276
+            ]
+        }
+    ]
+}
